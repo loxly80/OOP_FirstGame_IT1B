@@ -22,7 +22,7 @@ namespace OOP_FirstGame_IT1B
     {
         Character character1;
         Character character2;
-
+    
         public MainWindow()
         {
             InitializeComponent();
