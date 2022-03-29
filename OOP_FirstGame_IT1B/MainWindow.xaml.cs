@@ -40,7 +40,8 @@ namespace OOP_FirstGame_IT1B
 
         private void Heal_Click(object sender, RoutedEventArgs e)
         {
-
+            character1.Heal();
+            Txt1.Text = character1.ToString();
         }
     }
 }
